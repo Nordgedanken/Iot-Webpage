@@ -1,0 +1,6 @@
+{
+  "short_name": "Iot Panel",
+  "name": "Iot Control Panel for multiple Sensors",
+  "start_url": "index.html",
+  "display": "standalone"
+}
